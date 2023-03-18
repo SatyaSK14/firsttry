@@ -8,4 +8,6 @@ Adding few more lines for the pull
 
 This is to test push
 
+This changes are made in the first branch should be shown on the master
+
 This repository is built step by step in the tutorial.
